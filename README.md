@@ -6,6 +6,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 ###  目录
 - [UI](#UI)
 - [FaceBook](#iOS库)
+- [完整App](#完整App)
 - [下拉刷新](#下拉刷新)
 - [模糊效果](#模糊效果)
 - [AutoLayout](#AutoLayout)
@@ -66,6 +67,9 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [Shimmer](https://github.com/facebook/Shimmer) - BlingBling闪光效果，酷炫的Label的效果，可以用于加载等待提示。
 * [SwiftTweaks](https://github.com/Khan/SwiftTweaks) - 不用重新编译即可调整 UI 配置（按钮颜色、背景、动画延迟，简单布局等）的解决方案库。实现了发布生产版本前 UI 的简单配置，省却反复调试代码的麻烦。类似 OC 版 Facebook Tweats。
 * [pop](https://github.com/facebook/pop) - facebook出品的非常赞的动画引擎。
+
+##### 完整App
+
 
 ##### 下拉刷新
 * [EGOTableViewPullRefresh](https://github.com/enormego/EGOTableViewPullRefresh) - 最早的下拉刷新控件。
@@ -947,6 +951,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [SkfSwiftCammer](https://github.com/wubianxiaoxian/SkfSwiftCammer) - 一个相机demo，在oc里面调用了swift。
 * [ZFPlayer](https://github.com/renzifeng/ZFPlayer) - 基于AVPlayer，支持横屏、竖屏（全屏播放还可锁定屏幕方向），上下滑动调节音量、屏幕亮度，左右滑动调节播放进度。
 * [BMPlayer.swift](https://github.com/BrikerMan/BMPlayer) - 基于 AVPlayer 使用 Swift 封装的视频播放器，方便快速集成,支持横屏、竖屏，上下滑动调节音量、屏幕亮度，左右滑动调节播放进度。
+* [MiaowShow] (https://github.com/SunLiner/MiaowShow) iOS视频直播项目
+* [KrVideoPlayerPlus] (https://github.com/PlutusCat/KrVideoPlayerPlus) 根据36Kr开源的KRVideoPlayer 进行修改和补充实现一个轻量级的视频播放器，满足大部分视频播放需求
 
 ========
 #### 响应式框架
